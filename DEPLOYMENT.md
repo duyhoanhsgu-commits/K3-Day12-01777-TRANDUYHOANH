@@ -10,7 +10,7 @@
 
 | Mục | Nội dung |
 |-----|----------|
-| Họ và tên | Trần Duy Hoanh |
+| Họ và tên | Trần Duy Hoành |
 | Mã học viên | 01777 |
 | Repo | https://github.com/duyhoanhsgu-commits/K3-Day12-01777-TRANDUYHOANH |
 
